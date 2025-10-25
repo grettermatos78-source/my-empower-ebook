@@ -54,7 +54,7 @@ export const Pricing = () => {
                 <p className="text-muted-foreground line-through text-2xl">$49.99</p>
                 <div className="flex items-baseline justify-center gap-2">
                   <span className="text-6xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                    $24.99
+                    $9.99
                   </span>
                   <span className="text-2xl text-muted-foreground">USD</span>
                 </div>
