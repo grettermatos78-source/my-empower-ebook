@@ -14,10 +14,7 @@ const features = [
 
 export const Pricing = () => {
   const handlePurchase = () => {
-    toast.success("¡Redirigiendo al proceso de pago seguro!", {
-      description: "Serás redirigido a nuestra plataforma de pago en un momento...",
-    });
-    // Aquí se integraría Stripe u otro procesador de pagos
+    window.open('https://robernyscribe.gumroad.com/l/dimxtm', '_blank');
   };
 
   return (
